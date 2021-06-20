@@ -6,8 +6,7 @@ public final class MineableBuddingAmethyst extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
-
+        getServer().getPluginManager().registerEvents(new BlockBreakHandler(), this);
     }
 
     @Override
