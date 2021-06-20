@@ -1,0 +1,8 @@
+name: MineableBuddingAmethyst
+version: ${project.version}
+main: com.mercator.mineablebuddingamethyst.MineableBuddingAmethyst
+api-version: 1.17
+prefix: MBA
+authors: [ ProPane865 ]
+description: A simple plugin which allows you to mine budding amethyst without silk touch!
+website: mercatorearth.netlify.app
